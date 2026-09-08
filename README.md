@@ -18,7 +18,7 @@ First place, Bowen Award.
 | Final report with full techno-economic analysis (TEA) | [`ChemE-486-Process-Design-II-Capstone/ChemE486_Final_Report_with_TEA.docx`](ChemE-486-Process-Design-II-Capstone/ChemE486_Final_Report_with_TEA.docx) |
 | Economic analysis section, tables 3–5, and poster | `ChemE-486-Process-Design-II-Capstone/` |
 | Aspen Plus models (fermentation, hydrolysis, distillation/dehydration) | `ChemE-486-Process-Design-II-Capstone/aspen/` |
-| TEA workbook (NREL dw1910 template, filled), cash-flow and input sheets | `ChemE-486-Process-Design-II-Capstone/TEA/` |
+| **Techno-economic model — capital, operating cost, discounted cash flow, minimum selling price, tornado sensitivity** (8 sheets, 471 live formulas, no macros) | [`ChemE-486-Process-Design-II-Capstone/TEA/AP_TEA_Workbook_Heien.xlsx`](ChemE-486-Process-Design-II-Capstone/TEA/AP_TEA_Workbook_Heien.xlsx) — see the [TEA README](ChemE-486-Process-Design-II-Capstone/TEA/README.md) |
 | Sensitivity figures: tornado, spider, star, cash-flow | `ChemE-486-Process-Design-II-Capstone/figures/` |
 | Report 1 — feedstock concept, Gantt plan | `ChemE-486-Process-Design-II-Capstone/Report-1/` |
 | Report 2 — pre-1937 coal-gasification baseline model of the original Gas Works (individual report, with Aspen build guide, PFD/BFD) | `ChemE-486-Process-Design-II-Capstone/Report-2/` |
